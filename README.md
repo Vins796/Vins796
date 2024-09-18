@@ -1,4 +1,5 @@
 ## Hi there 👋
+### Sono uno Junior Full Stack Developer!
 
 <!--
 **Vins796/Vins796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
